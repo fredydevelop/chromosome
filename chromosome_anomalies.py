@@ -60,7 +60,7 @@ def chromosomeAnom(givendata):
  
 #main function handling the input
 def main():
-    st.header("Chromosome Anomalies Detection System")
+    st.header("Chromosome Anomaly Detection System")
     
     #getting user input
     
